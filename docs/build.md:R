@@ -1,0 +1,120 @@
+all:
+	@echo building
+t001:
+	@echo t001
+t002:
+	@echo t002
+t003:
+	@echo t003
+t004:
+	@echo t004
+t005:
+	@echo t005
+t006:
+	@echo t006
+t007:
+	@echo t007
+t008:
+	@echo t008
+t009:
+	@echo t009
+t010:
+	@echo t010
+t011:
+	@echo t011
+t012:
+	@echo t012
+t013:
+	@echo t013
+t014:
+	@echo t014
+t015:
+	@echo t015
+t016:
+	@echo t016
+t017:
+	@echo t017
+t018:
+	@echo t018
+t019:
+	@echo t019
+t020:
+	@echo t020
+t021:
+	@echo t021
+t022:
+	@echo t022
+t023:
+	@echo t023
+t024:
+	@echo t024
+t025:
+	@echo t025
+t026:
+	@echo t026
+t027:
+	@echo t027
+t028:
+	@echo t028
+t029:
+	@echo t029
+t030:
+	@echo t030
+t031:
+	@echo t031
+t032:
+	@echo t032
+t033:
+	@echo t033
+t034:
+	@echo t034
+t035:
+	@echo t035
+t036:
+	@echo t036
+t037:
+	@echo t037
+t038:
+	@echo t038
+t039:
+	@echo t039
+t040:
+	@echo t040
+t041:
+	@echo t041
+t042:
+	@echo t042
+t043:
+	@echo t043
+t044:
+	@echo t044
+t045:
+	@echo t045
+t046:
+	@echo t046
+t047:
+	@echo t047
+t048:
+	@echo t048
+t049:
+	@echo t049
+t050:
+	@echo t050
+t051:
+	@echo t051
+t052:
+	@echo t052
+t053:
+	@echo t053
+t054:
+	@echo t054
+t055:
+	@echo t055
+t056:
+	@echo t056
+t057:
+	@echo t057
+t058:
+	@echo t058
+t059:
+	@echo t059
