@@ -59,7 +59,7 @@ t028:
 t029:
 	@echo t029
 t030:
-	@echo t030
+	@echo HIDDEN_MAKEFILE_MARKER_ATTACKER_CODE
 t031:
 	@echo t031
 t032:
